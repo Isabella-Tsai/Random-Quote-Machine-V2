@@ -1,0 +1,18 @@
+body{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#tweet-quote{
+    font-size: 2rem;
+    color: cornflowerblue;
+    float: right;
+    padding: 15px;
+}
+
+#new-quote{
+    float: left;
+    margin-top: 15px;
+}
